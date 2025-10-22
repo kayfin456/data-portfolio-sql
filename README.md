@@ -27,6 +27,12 @@ Each project demonstrates a different analytical scenario and technical skillset
 **Focus:** Workforce scheduling and time parsing  
 **Techniques:** Date parsing, string formatting, data enrichment  
 
+### 6. Excel Data Cleaning and Interval Automation (VBA)
+**Focus:** Data cleaning and time-based transformation  
+**Techniques:** VBA automation, looping, dynamic ranges, and interval logic  
+**Highlights:** Automates data preparation tasks in Excel for faster analytics
+
+
 ---
 
 ## 🧰 Skills Demonstrated
